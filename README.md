@@ -1,2 +1,1 @@
-# infoactive
-Sistema de pantallas
+# infoactives
